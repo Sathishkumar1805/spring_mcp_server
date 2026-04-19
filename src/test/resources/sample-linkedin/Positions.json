@@ -1,0 +1,18 @@
+[
+  {
+    "companyName": "Test Organization",
+    "title": "Senior Java Full Stack Architect",
+    "description": "Enterprise Java/Spring projects with Angular front ends. Azure AD integration with JWT and MSAL. WebSphere coexistence and migration paths for legacy workloads.",
+    "location": "Austin, TX",
+    "startDate": "2019-01",
+    "endDate": "Present"
+  },
+  {
+    "companyName": "Example Corp",
+    "title": "Lead Developer",
+    "description": "Spring Boot microservices and REST APIs.",
+    "location": "Remote",
+    "startDate": "2010-06",
+    "endDate": "2018-12"
+  }
+]
